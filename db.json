@@ -1,0 +1,25 @@
+{
+  "compatibilidad": [
+    {
+      "tecnologia": "Java",
+      "version60": "8 or 11",
+      "version54": "8 or 11",
+      "version53": "8 or 11",
+      "version52": "8",
+      "version51": "6/7/8 through 5.1.3; 7/8 through 5.1.16; 8 for 5.1.17",
+      "version50": "6, 7 or 8"
+    },
+    {
+      "tecnologia": "JPA",
+      "version60": "2.2",
+      "version54": "2.2",
+      "version53": "2.2",
+      "version52": "2.1",
+      "version51": "2.1",
+      "version50": "2.1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
